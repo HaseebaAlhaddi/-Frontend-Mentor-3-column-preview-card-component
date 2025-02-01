@@ -18,8 +18,8 @@
 
 ### Links
 
-- Solution URL:(https://github.com/HaseebaAlhaddi/Frontend-Mentor-Stats-preview-card-component)
-- Live Site URL:(https://haseebaalhaddi.github.io/Frontend-Mentor-Stats-preview-card-component/)
+- Solution URL:(https://github.com/HaseebaAlhaddi/-Frontend-Mentor-3-column-preview-card-component)
+- Live Site URL:(https://haseebaalhaddi.github.io/-Frontend-Mentor-3-column-preview-card-component/)
 
 ## My process
 
